@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1 1
+  m_Name: 1
   m_Shader: {fileID: 4800000, guid: 11f6c6652dcc4c349b0d3840fd272ea5, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -64,7 +64,7 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _DepthThreshold: 0.073
+    - _DepthThreshold: 0.065
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
